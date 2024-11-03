@@ -16,3 +16,6 @@ spring:
 #        url: jdbc:mariadb://127.0.0.1:3360/db_dev
 #        username: root
 #        password:
+
+custom:
+  fileDirPath: /usr/file
